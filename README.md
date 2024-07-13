@@ -6,7 +6,7 @@
 
 <h2 align="center">Hello Pals 👋</h2>
 
-<p align="left">Welcome to my GitHub profile! 🚀 I'm a QA Engineer driven by a passion for pushing the limits of performance testing and diving deep into automation. While you won't find me in public repos every day, I'm always eager for new projects and lively discussions on all things quality assurance.</p>
+<p align="left">Welcome to my GitHub profile! 🚀 I'm a QA Engineer driven by a passion for pushing the limits of performance testing and diving deep into automation. While you won't find me in public repos every day, I'm always eager for new projects and lively discussions on all things about quality assurance.</p>
 
 ---
 
