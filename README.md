@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vidyasmara/vidyasmara/output/tenor.gif" alt="Alt Text">
+  <img src="https://raw.githubusercontent.com/vidyasmara/vidyasmara/assets/tenor.gif" alt="Alt Text">
 </div>
 
 ---
