@@ -7,7 +7,7 @@
 <h2 align="center">🌌 Hello Pals 👋</h2>
 
 <p align="center">
-  <em>“As a QA Engineer, I may not be your <strong>Expected Result</strong>!”</em> <br> 
+  <em>“I break things so you won’t have to!”</em> <br> 
   🚀 Welcome to my cosmic GitHub space! I'm fueled by my passion for pushing the boundaries of <strong>Performance Testing</strong> and exploring the galaxies of <strong>Automation</strong>.
 </p>
 
@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  🌠 <strong>Let's explore the universe of code together!</strong> 🪐
+  🌠 <strong>Let's explore the universe of quality together!</strong> 🪐
 </p>
 
 <div align="center">
