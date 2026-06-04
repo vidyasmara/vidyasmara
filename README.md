@@ -1,34 +1,40 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vidyasmara/vidyasmara/assets/Arsenal-Declan-Rice.gif" alt="Alt Text" width="400px">
+  <img src="https://raw.githubusercontent.com/vidyasmara/vidyasmara/assets/Arsenal-Declan-Rice.gif" alt="Arsenal Celebration" width="400px">
 </div>
 
 ---
 
-<h2 align="center">🌌 Hello Pals 👋</h2>
+<h2 align="center">👋 Hello Pals</h2>
 
 <p align="center">
-  <em>“I break things so you won’t have to!”</em> <br> 
-  🚀 Welcome to my cosmic GitHub space! I'm fueled by my passion for pushing the boundaries of <strong>Performance Testing</strong> and exploring the galaxies of <strong>Automation</strong>.
+  <em>"Trust, but verify."</em>
 </p>
 
 <p align="center">
-  ✨ While my public repositories may be quiet, behind the scenes, I'm always ready for new challenges and eager to collaborate on exciting quality assurance projects.
+  I'm a Senior QA Engineer passionate about <strong>Performance Testing</strong> and <strong>Automation Testing</strong>.
+</p>
+
+<p align="center">
+  While you won't find me contributing to public repositories every day, I'm always exploring better testing strategies, learning new technologies, and building reliable products.
 </p>
 
 ---
 
-<h2 align="center">💫 Watching the snake devour my contributions 💫</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake GIF">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </div>
 
 ---
 
 <p align="center">
-  🌠 <strong>Let's explore the universe of quality together!</strong> 🪐
+  ⚙️ "Works on my machine" is not a valid test result.
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/QA-Engineer-blueviolet?style=for-the-badge" alt="QA Engineer Badge">
-  <img src="https://img.shields.io/badge/Automation-Enthusiast-blue?style=for-the-badge" alt="Automation Enthusiast Badge">
+  <img src="https://img.shields.io/badge/QA-Engineer-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Performance-Testing-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Automation-Enthusiast-1f6feb?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Arsenal-Fan-red?style=for-the-badge">
 </div>
