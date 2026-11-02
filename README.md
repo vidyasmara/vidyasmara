@@ -36,5 +36,4 @@
   <img src="https://img.shields.io/badge/QA-Engineer-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/Performance-Testing-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Automation-Enthusiast-1f6feb?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Arsenal-Fan-red?style=for-the-badge">
 </div>
