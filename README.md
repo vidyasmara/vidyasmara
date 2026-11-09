@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/vidyasmara/vidyasmara/assets/Arsenal-Declan-Rice.gif" alt="Arsenal Celebration" width="400px">
 </div>
 
----
 
 <h2 align="center">👋 Hello Pals</h2>
 
@@ -18,7 +17,6 @@
   While you won't find me contributing to public repositories every day, I'm always exploring better testing strategies, learning new technologies, and building reliable products.
 </p>
 
----
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
